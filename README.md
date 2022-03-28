@@ -1,4 +1,6 @@
-# hello-word
-prog easy\
-ttt lpv
-deq
+#include <stdio>
+  
+  int main (void)
+  {
+  printf("Hello word\n")
+  }
